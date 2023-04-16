@@ -4,17 +4,17 @@
       "id": 2,
       "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
       "author": "Albert Einstein",
-      "genre": "new",
-      "createdAt": "10",
-      "updatedAt": "10"
+      "genre": "Motivational",
+      "createdAt": "2023-04-16 13:51:57",
+      "updatedAt": "2023-04-16 13:51:57"
     },
     {
       "id": 3,
       "quote": "So many books, so little time.",
       "author": "Frank Zappa",
-      "genre": "new",
-      "createdAt": "10",
-      "updatedAt": "10"
+      "genre": "Philosophical",
+      "createdAt": "2023-04-16 13:51:57",
+      "updatedAt": "2023-04-16 13:51:57"
     }
   ]
 }
