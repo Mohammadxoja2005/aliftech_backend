@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.3",
-    "mongodb": "^6.1.0",
-    "mongoose": "^7.5.3"
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
